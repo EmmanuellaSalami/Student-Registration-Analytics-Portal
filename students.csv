@@ -1,0 +1,15 @@
+registration_id,user_name,user_email,user_age,program,commitment,coding_experience,interest_area,learning_institute,start_date,end_date
+AETHER-UI-2026-001,Emmanuella Daniel,fara@gmail.com,23,UI/UX Design,yes,beginner,Design,Aether Institute,,
+AETHER-DA-2026-002,Errrra Name,reame@gmail.com,23,Data Science,yes,intermediate,Data & AI,Aether Institute,2026-08-01,2026-09-26
+AETHER-IT-2026-003,Dante Russo,dante@gmail.com,24,IT Support,yes,beginner,Data & AI,Aether Institute,2026-06-01,2026-06-29
+AETHER-CC-2026-004,Afolake Olufemi,edaseras@gmail.com,28,Cloud Computing,yes,advanced,Security & Cloud,Aether Institute,2026-08-01,2026-09-12
+AETHER-UX-2026-005,Chukwudi Adebayo,chukwudiadebayo@gmail.com,32,UI/UX Design,yes,beginner,Design,Aether Institute,2026-04-01,2026-04-29
+AETHER-SD-2026-006,Daniel Hill,danielhill525@gmail.com,24,Software Development,yes,advanced,Management,Aether Institute,2026-02-01,2026-04-26
+AETHER-IT-2026-007,Harper Clark,harperclark@gmail.com,29,IT Support,yes,none,Web Development,Aether Institute,2026-06-01,2026-06-29
+AETHER-PM-2026-008,Sophia Brown,sophiabrown@gmail.com,33,Product Management,yes,beginner,Management,Aether Institute,2026-08-01,2026-09-12
+AETHER-DS-2026-009,Oluwatobi Eze,oluwatobi@gmail.com,27,Data Science,yes,intermediate,Data & AI,Aether Institute,2026-06-01,2026-07-27
+AETHER-UX-2026-010,Zara Adeyemi,zaraadeyemi@gmail.com,19,UI/UX Design,yes,beginner,Design,Aether Institute,2026-04-01,2026-04-29
+AETHER-CC-2026-011,Noah Abdullahi,abdullahi@gmail.com,22,Cloud Computing,yes,beginner,Security & Cloud,Aether Institute,2026-06-01,2026-07-13
+AETHER-CY-2026-012,Emeka Thompson,thompson@gmail.com,21,Cybersecurity,yes,intermediate,Security & Cloud,Aether Institute,2026-08-01,2026-09-26
+AETHER-UX-2026-013,Sara Ade,adebage@gmail.com,18,UI/UX Design,yes,beginner,Design,Aether Institute,2026-04-01,2026-04-29
+AETHER-UX-2026-014,Faradele Gbenga,gbenga@gmail.com,34,UI/UX Design,no,beginner,Design,Aether Institute,2026-02-01,2026-03-01

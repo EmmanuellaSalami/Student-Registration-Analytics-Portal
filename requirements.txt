@@ -1,0 +1,7 @@
+# Aether Institute Data Portal - Required Python packages
+# Install with: pip install -r requirements.txt
+
+pandas>=2.2.0          # Data manipulation & analysis
+matplotlib>=3.8.0      # Core plotting library
+seaborn>=0.13.0        # Beautiful statistical visualizations
+scikit-learn>=1.3.0    # Machine learning (for enhanced recommendation mode)
