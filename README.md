@@ -12,7 +12,7 @@ This project includes **two modes**:
 
 2. **Enhanced Version**: includes a machine learning based recommendation system 
 
-## ✨ Key Features (basic version)
+##  Key Features (basic version)
 
 - **Smart registration** with data-driven program recommendations  
   (rule-based + similarity matching on historical student data)
@@ -55,7 +55,7 @@ This project includes **two modes**:
 
 ML is optional: Not needed for small datasets; rule-based recommendations are sufficient
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python 3.10+
 - pandas — Data manipulation & analysis
@@ -64,7 +64,7 @@ ML is optional: Not needed for small datasets; rule-based recommendations are su
 - datetime — cohort scheduling and duration tracking
 - scikit-learn — decision tree machine learning recommendation (enhanced version)
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Main Menu & Registration Flow
 ![Registration](images/Screenshot%20(registration).png)
@@ -88,7 +88,7 @@ ML is optional: Not needed for small datasets; rule-based recommendations are su
 
 **Commitment Level by Program**  
 ![Commitment by Program](images/Screenshot%20(commitment%20level).png)
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository
    git clone https://github.com/EmmanuellaSalami/Aether-Student-Registration-Analytics-Portal.git
